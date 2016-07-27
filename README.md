@@ -19,7 +19,7 @@ SCSS File Sample
             content: "\E8FB";
         }
     
-        &.icon-accounts:before { /* KEYWORDS - at email */
+        &.icon-accounts:before { /* KEYWORDS - at, email */
             content: "\E910";
         }
     }
