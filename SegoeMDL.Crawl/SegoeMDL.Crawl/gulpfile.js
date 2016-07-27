@@ -23,16 +23,16 @@ var resolveMinifiedPath = function (path) {
 
 // Clean the distributable css directory
 gulp.task('minify:clean:css', function () {
-    return del('css/');
+    return del('dist/css/');
 });
 
 // Compile out sass files and minify it
 gulp.task('minify:css', ['minify:clean:css'], function () {
     var min = resolveMinifiedPath("./dist/segoe-icons.min.css");
-    return gulp.src('segoe-icons.scss')
+    return gulp.src('dist/segoe-icons.scss')
         .pipe(plumber(errorHandler))
         .pipe(sass())
-        .pipe(gulp.dest('css/'))
+        .pipe(gulp.dest('dist/css/'))
         .pipe(cssmin())
         .pipe(concat(min.file))
         .pipe(gulp.dest(min.path));
@@ -40,5 +40,5 @@ gulp.task('minify:css', ['minify:clean:css'], function () {
 
 //Watch CSS task
 gulp.task('default:segoe-crawl:css', function () {
-    gulp.watch('segoe-icons.scss', ['minify:css']);
+    gulp.watch('dist/segoe-icons.scss', ['minify:css']);
 });

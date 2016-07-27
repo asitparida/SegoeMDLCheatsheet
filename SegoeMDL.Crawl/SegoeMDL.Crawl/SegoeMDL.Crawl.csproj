@@ -69,8 +69,8 @@
     <Content Include="packages.config" />
     <Content Include="source.json" />
     <Content Include="package.json" />
-    <Content Include="modified.json" />
-    <Content Include="segoe-icons.scss" />
+    <Content Include="dist\modified.json" />
+    <Content Include="dist\segoe-icons.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

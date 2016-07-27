@@ -53,7 +53,7 @@ function morphJSON(objects) {
         }
     }
     icons = _.sortBy(icons, 'name');
-    jsonfile.writeFile('modified.json', icons, function (err) {
+    jsonfile.writeFile('dist/modified.json', icons, function (err) {
         console.error(err)
     });
     writeToSCSSFile(icons);
@@ -76,7 +76,7 @@ function writeToSCSSFile(icons) {
         _txt = _txt + _iconTmpl;
     });
     _iconsAllTmpl = _iconsAllTmpl.replace('ICONS_SCSS_ALL', _txt);
-    fs.writeFile('segoe-icons.scss', _iconsAllTmpl, function (err) {
+    fs.writeFile('dist/segoe-icons.scss', _iconsAllTmpl, function (err) {
         if (err) {
             return console.error(err);
         }
