@@ -1,0 +1,22 @@
+{
+  "name": "segoe-mdl-crawl",
+  "version": "1.0.0",
+  "description": "crawled scss cheatsheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asitparida@live.in",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-debug": "2.1.2",
+    "gulp-plumber": "1.1.0",
+    "gulp-concat": "2.6.0",
+    "gulp-sass": "2.3.2",
+    "gulp-cssmin": "0.1.7",
+    "del": "2.2.1",
+    "jsonfile": "2.3.1",
+    "underscore-node": "0.1.2"
+  }
+}

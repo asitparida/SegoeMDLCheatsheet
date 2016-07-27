@@ -1,0 +1,5362 @@
+﻿[
+  {
+    "hex": "E001",
+    "name": "CheckMarkLegacy",
+    "keywords": "legacy,checkmark,check,mark"
+  },
+  {
+    "hex": "E002",
+    "name": "CheckboxFillLegacy",
+    "keywords": "legacy,solid,box"
+  },
+  {
+    "hex": "E003",
+    "name": "CheckboxLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E004",
+    "name": "CheckboxIndeterminateLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E005",
+    "name": "CheckboxCompositeReversedLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E006",
+    "name": "HeartLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E007",
+    "name": "HeartBrokenLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E008",
+    "name": "CheckMarkZeroWidthLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E009",
+    "name": "CheckboxFillZeroWidthLegacy",
+    "keywords": "legacy,zero-width"
+  },
+  {
+    "hex": "E00A",
+    "name": "RatingStarFillZeroWidthLegacy",
+    "keywords": "legacy,zero-width"
+  },
+  {
+    "hex": "E00B",
+    "name": "HeartFillZeroWidthLegacy",
+    "keywords": "legacy,zero-width"
+  },
+  {
+    "hex": "E00C",
+    "name": "HeartBrokenZeroWidthLegacy",
+    "keywords": "legacy,zero-width"
+  },
+  {
+    "hex": "E00E",
+    "name": "ScrollChevronLeftLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E00F",
+    "name": "ScrollChevronRightLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E010",
+    "name": "ScrollChevronUpLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E011",
+    "name": "ScrollChevronDownLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E012",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E013",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E014",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E015",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E016",
+    "name": "ScrollChevronLeftBoldLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E017",
+    "name": "ScrollChevronRightBoldLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E018",
+    "name": "ScrollChevronUpBoldLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E019",
+    "name": "ScrollChevronDownBoldLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E052",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E07F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E081",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E082",
+    "name": "RatingStarFillReducedPaddingHTMLLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E087",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E08F",
+    "name": "",
+    "keywords": "duplicate,keyboard,split"
+  },
+  {
+    "hex": "E094",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E096",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E097",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E098",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E099",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E09A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E09B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E09C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E09D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E09E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E09F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E0A0",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E0A1",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E0A2",
+    "name": "CheckboxCompositeLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E0A5",
+    "name": "HeartFillLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E0A6",
+    "name": "BackBttnArrow42Legacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E0AB",
+    "name": "BackBttnMirroredArrow42Legacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E0AD",
+    "name": "BackBttnMirroredArrow20Legacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E0AE",
+    "name": "ArrowHTMLMirroredLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E0B4",
+    "name": "RatingStarFillLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E0B5",
+    "name": "RatingStarFillSmallLegacy",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E0B8",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E0C4",
+    "name": "BackBttnArrow20Legacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E0D5",
+    "name": "ArrowHTMLLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E0E2",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E0E3",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E0E4",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E0E5",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E0E7",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E100",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E101",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E102",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E103",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E104",
+    "name": "",
+    "keywords": "duplicate,pencil"
+  },
+  {
+    "hex": "E105",
+    "name": "",
+    "keywords": "duplicate,save"
+  },
+  {
+    "hex": "E106",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E107",
+    "name": "",
+    "keywords": "duplicate,trash"
+  },
+  {
+    "hex": "E108",
+    "name": "",
+    "keywords": "duplicate,math"
+  },
+  {
+    "hex": "E109",
+    "name": "",
+    "keywords": "duplicate,math"
+  },
+  {
+    "hex": "E10A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E10B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E10C",
+    "name": "",
+    "keywords": "duplicate,menu"
+  },
+  {
+    "hex": "E10D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E10E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E10F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E110",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E111",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E112",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E113",
+    "name": "FavoriteLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E114",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E115",
+    "name": "",
+    "keywords": "duplicate,cog"
+  },
+  {
+    "hex": "E116",
+    "name": "VideoLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E117",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E118",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E119",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E11A",
+    "name": "FindLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E11B",
+    "name": "",
+    "keywords": "duplicate,questionmark"
+  },
+  {
+    "hex": "E11C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E11D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E11E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E11F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E120",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E121",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E122",
+    "name": "",
+    "keywords": "duplicate,airplane,plane"
+  },
+  {
+    "hex": "E123",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E124",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E125",
+    "name": "",
+    "keywords": "duplicate,users,people"
+  },
+  {
+    "hex": "E126",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E127",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E128",
+    "name": "",
+    "keywords": "duplicate,earth"
+  },
+  {
+    "hex": "E129",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E12A",
+    "name": "",
+    "keywords": "duplicate,profile,details"
+  },
+  {
+    "hex": "E12B",
+    "name": "",
+    "keywords": "duplicate,earth,web,wire"
+  },
+  {
+    "hex": "E12C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E12D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E12E",
+    "name": "",
+    "keywords": "duplicate,search-plus"
+  },
+  {
+    "hex": "E12F",
+    "name": "",
+    "keywords": "duplicate,notes"
+  },
+  {
+    "hex": "E130",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E131",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E132",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E133",
+    "name": "CheckList",
+    "keywords": "undocumented"
+  },
+  {
+    "hex": "E134",
+    "name": "CommentLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E135",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E136",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E137",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E138",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E139",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E13A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E13B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E13C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E13D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E13E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E13F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E140",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E141",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E142",
+    "name": "",
+    "keywords": "duplicate,audio,playlist,music"
+  },
+  {
+    "hex": "E143",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E144",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E145",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E146",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E147",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E148",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E149",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E14A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E14B",
+    "name": "",
+    "keywords": "duplicate,audio,music"
+  },
+  {
+    "hex": "E14C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E14D",
+    "name": "",
+    "keywords": "duplicate,market,shopping"
+  },
+  {
+    "hex": "E14E",
+    "name": "",
+    "keywords": "duplicate,table,select"
+  },
+  {
+    "hex": "E14F",
+    "name": "",
+    "keywords": "duplicate,rotate"
+  },
+  {
+    "hex": "E150",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E151",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E152",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E153",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E154",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E155",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E156",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E158",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E159",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E15A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E15B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E15C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E15D",
+    "name": "",
+    "keywords": "duplicate,audio"
+  },
+  {
+    "hex": "E15E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E15F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E160",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E161",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E162",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E163",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E164",
+    "name": "",
+    "keywords": "duplicate,region"
+  },
+  {
+    "hex": "E165",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E166",
+    "name": "",
+    "keywords": "duplicate,email-read"
+  },
+  {
+    "hex": "E167",
+    "name": "",
+    "keywords": "duplicate,url"
+  },
+  {
+    "hex": "E168",
+    "name": "",
+    "keywords": "duplicate,twitter"
+  },
+  {
+    "hex": "E169",
+    "name": "",
+    "keywords": "duplicate,dropdown-expand"
+  },
+  {
+    "hex": "E16A",
+    "name": "",
+    "keywords": "duplicate,dropdown-collapse"
+  },
+  {
+    "hex": "E16B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E16C",
+    "name": "",
+    "keywords": "duplicate,clip"
+  },
+  {
+    "hex": "E16D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E16E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E16F",
+    "name": "",
+    "keywords": "duplicate,pages"
+  },
+  {
+    "hex": "E170",
+    "name": "",
+    "keywords": "duplicate,smiley,emoticon"
+  },
+  {
+    "hex": "E171",
+    "name": "",
+    "keywords": "duplicate,alert"
+  },
+  {
+    "hex": "E172",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E173",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E174",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E175",
+    "name": "",
+    "keywords": "duplicate,rtl"
+  },
+  {
+    "hex": "E176",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E177",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E178",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E179",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E17A",
+    "name": "",
+    "keywords": "duplicate,disconnect"
+  },
+  {
+    "hex": "E17B",
+    "name": "",
+    "keywords": "duplicate,connect"
+  },
+  {
+    "hex": "E17C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E17D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E181",
+    "name": "",
+    "keywords": "duplicate,user-status"
+  },
+  {
+    "hex": "E182",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E183",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E184",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E185",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E186",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E187",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E188",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E189",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E18A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E18B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E18C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E18D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E18E",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E18F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E190",
+    "name": "",
+    "keywords": "duplicate,media"
+  },
+  {
+    "hex": "E191",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E192",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E193",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E194",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E195",
+    "name": "UnfavoriteLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E196",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E197",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E198",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E199",
+    "name": "",
+    "keywords": "duplicate,forward-slash"
+  },
+  {
+    "hex": "E19A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E19B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E19C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E19D",
+    "name": "LikeDislikeLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E19E",
+    "name": "DislikeLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E19F",
+    "name": "LikeLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E1A0",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1A1",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1A2",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1A3",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1A4",
+    "name": "",
+    "keywords": "duplicate,search-minus"
+  },
+  {
+    "hex": "E1A5",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1A6",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1A7",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1A8",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1AA",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1AB",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1AC",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1AD",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1AE",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1AF",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1B0",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1B1",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1B2",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1B3",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1B4",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1B5",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1B6",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1B7",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1B8",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1B9",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E1BA",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E1BB",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E1BC",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E1BD",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E1BE",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E1BF",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1C0",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1C2",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1C3",
+    "name": "",
+    "keywords": "duplicate,house"
+  },
+  {
+    "hex": "E1C4",
+    "name": "",
+    "keywords": "duplicate,map,location,pin"
+  },
+  {
+    "hex": "E1C5",
+    "name": "",
+    "keywords": "duplicate,select,undo"
+  },
+  {
+    "hex": "E1C6",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1C7",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1C8",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1C9",
+    "name": "",
+    "keywords": "duplicate,phone"
+  },
+  {
+    "hex": "E1CA",
+    "name": "",
+    "keywords": "duplicate,media,audio"
+  },
+  {
+    "hex": "E1CB",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1CC",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1CD",
+    "name": "",
+    "keywords": "duplicate,reload,refresh"
+  },
+  {
+    "hex": "E1CE",
+    "name": "OutlineStarLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E1CF",
+    "name": "SolidStarLegacy",
+    "keywords": "legacy,star"
+  },
+  {
+    "hex": "E1D0",
+    "name": "",
+    "keywords": "duplicate,math,equation"
+  },
+  {
+    "hex": "E1D1",
+    "name": "",
+    "keywords": "duplicate,bow,compass"
+  },
+  {
+    "hex": "E1D2",
+    "name": "",
+    "keywords": "duplicate,coordinate"
+  },
+  {
+    "hex": "E1D3",
+    "name": "",
+    "keywords": "duplicate,books"
+  },
+  {
+    "hex": "E1D4",
+    "name": "",
+    "keywords": "duplicate,contacts"
+  },
+  {
+    "hex": "E1D5",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1D6",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1D7",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1D8",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1D9",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1DA",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1DB",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1DD",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1DE",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1DF",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1E0",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1E1",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1E2",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1E3",
+    "name": "",
+    "keywords": "duplicate,pointer"
+  },
+  {
+    "hex": "E1E4",
+    "name": "",
+    "keywords": "duplicate,monitor"
+  },
+  {
+    "hex": "E1E5",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1E6",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1E7",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1E8",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1E9",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1EA",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1EC",
+    "name": "",
+    "keywords": "duplicate,rtl"
+  },
+  {
+    "hex": "E1ED",
+    "name": "",
+    "keywords": "duplicate,rtl"
+  },
+  {
+    "hex": "E1EE",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1EF",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1F1",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1F2",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1F3",
+    "name": "",
+    "keywords": "duplicate,rtl"
+  },
+  {
+    "hex": "E1F4",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1F5",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1F6",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1F7",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E1FD",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E206",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E208",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E209",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E20A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E20B",
+    "name": "MailMessageLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E211",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E212",
+    "name": "",
+    "keywords": "duplicate,laptop,tablet,mobile"
+  },
+  {
+    "hex": "E224",
+    "name": "RatingStarLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E228",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E248",
+    "name": "ReplyLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E249",
+    "name": "Favorite2Legacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E24A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E24E",
+    "name": "Unfavorite2Legacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E25A",
+    "name": "MobileContactLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E25B",
+    "name": "BlockedLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E25C",
+    "name": "TypingIndicatorLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E25D",
+    "name": "PresenceChickletVideoLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E25E",
+    "name": "PresenceChickletLegacy",
+    "keywords": "legacy"
+  },
+  {
+    "hex": "E26B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E26C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E28F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E290",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E291",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E292",
+    "name": "",
+    "keywords": "duplicate,bullet"
+  },
+  {
+    "hex": "E294",
+    "name": "",
+    "keywords": "duplicate,scan"
+  },
+  {
+    "hex": "E295",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E297",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E298",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E299",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E29B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E2AC",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E2AD",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E2AE",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E2AF",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E2B0",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E2B1",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E2B2",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E2B3",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E2B4",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E2F6",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E2F7",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E700",
+    "name": "",
+    "keywords": "duplicate,hamburger,mmm"
+  },
+  {
+    "hex": "E701",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E702",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E703",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E704",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E705",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E706",
+    "name": "",
+    "keywords": "duplicate,day"
+  },
+  {
+    "hex": "E707",
+    "name": "Mappin",
+    "keywords": "map,pin"
+  },
+  {
+    "hex": "E708",
+    "name": "",
+    "keywords": "duplicate,night"
+  },
+  {
+    "hex": "E709",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E70A",
+    "name": "",
+    "keywords": "duplicate,mobile"
+  },
+  {
+    "hex": "E70B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E70C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E70D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E70E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E70F",
+    "name": "Edit",
+    "keywords": "pencil"
+  },
+  {
+    "hex": "E710",
+    "name": "Add",
+    "keywords": "plus,math"
+  },
+  {
+    "hex": "E711",
+    "name": "Cancel",
+    "keywords": ""
+  },
+  {
+    "hex": "E712",
+    "name": "More",
+    "keywords": "ellipse"
+  },
+  {
+    "hex": "E713",
+    "name": "Settings",
+    "keywords": "cog"
+  },
+  {
+    "hex": "E714",
+    "name": "Video",
+    "keywords": ""
+  },
+  {
+    "hex": "E715",
+    "name": "Mail",
+    "keywords": "email"
+  },
+  {
+    "hex": "E716",
+    "name": "People",
+    "keywords": ""
+  },
+  {
+    "hex": "E717",
+    "name": "Phone",
+    "keywords": ""
+  },
+  {
+    "hex": "E718",
+    "name": "Pin",
+    "keywords": ""
+  },
+  {
+    "hex": "E719",
+    "name": "Shop",
+    "keywords": ""
+  },
+  {
+    "hex": "E71A",
+    "name": "Stop",
+    "keywords": ""
+  },
+  {
+    "hex": "E71B",
+    "name": "Link",
+    "keywords": ""
+  },
+  {
+    "hex": "E71C",
+    "name": "Filter",
+    "keywords": ""
+  },
+  {
+    "hex": "E71D",
+    "name": "AllApps",
+    "keywords": "checkbox,list"
+  },
+  {
+    "hex": "E71E",
+    "name": "Zoom",
+    "keywords": ""
+  },
+  {
+    "hex": "E71F",
+    "name": "ZoomOut",
+    "keywords": "magnify"
+  },
+  {
+    "hex": "E720",
+    "name": "Microphone",
+    "keywords": ""
+  },
+  {
+    "hex": "E721",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E722",
+    "name": "Camera",
+    "keywords": "photo"
+  },
+  {
+    "hex": "E723",
+    "name": "Attach",
+    "keywords": "paperclip"
+  },
+  {
+    "hex": "E724",
+    "name": "Send",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E725",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E726",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E727",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E729",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E72A",
+    "name": "Forward",
+    "keywords": "arrow,right"
+  },
+  {
+    "hex": "E72B",
+    "name": "Back",
+    "keywords": "back,arrow,left"
+  },
+  {
+    "hex": "E72C",
+    "name": "Refresh",
+    "keywords": "reload"
+  },
+  {
+    "hex": "E72D",
+    "name": "Share",
+    "keywords": ""
+  },
+  {
+    "hex": "E72E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E728",
+    "name": "FavoriteList",
+    "keywords": "list"
+  },
+  {
+    "hex": "E730",
+    "name": "ReportHacked",
+    "keywords": ""
+  },
+  {
+    "hex": "E734",
+    "name": "FavoriteStar",
+    "keywords": ""
+  },
+  {
+    "hex": "E735",
+    "name": "FavoriteStarFill",
+    "keywords": ""
+  },
+  {
+    "hex": "E738",
+    "name": "Remove",
+    "keywords": "minus,math"
+  },
+  {
+    "hex": "E739",
+    "name": "Checkbox",
+    "keywords": ""
+  },
+  {
+    "hex": "E73A",
+    "name": "CheckboxComposite",
+    "keywords": ""
+  },
+  {
+    "hex": "E73B",
+    "name": "CheckboxFill",
+    "keywords": ""
+  },
+  {
+    "hex": "E73C",
+    "name": "CheckboxIndeterminate",
+    "keywords": ""
+  },
+  {
+    "hex": "E73D",
+    "name": "CheckboxCompositeReversed",
+    "keywords": ""
+  },
+  {
+    "hex": "E73E",
+    "name": "CheckMark",
+    "keywords": ""
+  },
+  {
+    "hex": "E73F",
+    "name": "BackToWindow",
+    "keywords": "collapse"
+  },
+  {
+    "hex": "E740",
+    "name": "FullScreen",
+    "keywords": "expand"
+  },
+  {
+    "hex": "E741",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E742",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E743",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E744",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E745",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E746",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E747",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E748",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E749",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E74A",
+    "name": "Up",
+    "keywords": "arrow,up"
+  },
+  {
+    "hex": "E74B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E74C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E74D",
+    "name": "Delete",
+    "keywords": "trash,remove,content"
+  },
+  {
+    "hex": "E74E",
+    "name": "Save",
+    "keywords": ""
+  },
+  {
+    "hex": "E74F",
+    "name": "Mute",
+    "keywords": "volume,sound"
+  },
+  {
+    "hex": "E750",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E751",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E752",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E753",
+    "name": "Cloud",
+    "keywords": "weather"
+  },
+  {
+    "hex": "E754",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E755",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E756",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E759",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E75A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E75B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E75C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E75D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E75E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E75F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E760",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E761",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E762",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E763",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E764",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E765",
+    "name": "KeyboardClassic",
+    "keywords": ""
+  },
+  {
+    "hex": "E766",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E767",
+    "name": "Volume",
+    "keywords": ""
+  },
+  {
+    "hex": "E768",
+    "name": "Play",
+    "keywords": "media,controls"
+  },
+  {
+    "hex": "E769",
+    "name": "Pause",
+    "keywords": "media,controls"
+  },
+  {
+    "hex": "E76B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E76C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E76D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E76E",
+    "name": "Emoji2",
+    "keywords": ""
+  },
+  {
+    "hex": "E76F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E770",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E771",
+    "name": "",
+    "keywords": "duplicate,theme"
+  },
+  {
+    "hex": "E772",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E773",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E774",
+    "name": "Globe",
+    "keywords": "world"
+  },
+  {
+    "hex": "E775",
+    "name": "",
+    "keywords": "duplicate,region-settings"
+  },
+  {
+    "hex": "E776",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E777",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E778",
+    "name": "Hangup",
+    "keywords": "phone"
+  },
+  {
+    "hex": "E779",
+    "name": "ContactInfo",
+    "keywords": "account,information"
+  },
+  {
+    "hex": "E77A",
+    "name": "UnPin",
+    "keywords": "pin"
+  },
+  {
+    "hex": "E77B",
+    "name": "Contact",
+    "keywords": "account"
+  },
+  {
+    "hex": "E77C",
+    "name": "Memo",
+    "keywords": ""
+  },
+  {
+    "hex": "E77F",
+    "name": "Paste",
+    "keywords": "content"
+  },
+  {
+    "hex": "E780",
+    "name": "PhoneBook",
+    "keywords": "phone,call"
+  },
+  {
+    "hex": "E781",
+    "name": "",
+    "keywords": "duplicate,notification"
+  },
+  {
+    "hex": "E783",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E784",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E785",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E786",
+    "name": "Slideshow",
+    "keywords": ""
+  },
+  {
+    "hex": "E787",
+    "name": "Calendar",
+    "keywords": "date"
+  },
+  {
+    "hex": "E788",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E789",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E78A",
+    "name": "Trim",
+    "keywords": ""
+  },
+  {
+    "hex": "E78B",
+    "name": "NewWindow",
+    "keywords": "open,window"
+  },
+  {
+    "hex": "E78C",
+    "name": "SaveLocal",
+    "keywords": ""
+  },
+  {
+    "hex": "E78D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E78E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E78F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E790",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E791",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E792",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E793",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E794",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E795",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E796",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7A5",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7A6",
+    "name": "Redo",
+    "keywords": ""
+  },
+  {
+    "hex": "E7A7",
+    "name": "Undo",
+    "keywords": ""
+  },
+  {
+    "hex": "E7A8",
+    "name": "Crop",
+    "keywords": ""
+  },
+  {
+    "hex": "E7AC",
+    "name": "OpenWith",
+    "keywords": ""
+  },
+  {
+    "hex": "E7AD",
+    "name": "Rotate",
+    "keywords": "rotate right"
+  },
+  {
+    "hex": "E7B5",
+    "name": "SetLockScreen",
+    "keywords": ""
+  },
+  {
+    "hex": "E7B7",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7B8",
+    "name": "",
+    "keywords": "duplicate,box"
+  },
+  {
+    "hex": "E7BA",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7BE",
+    "name": "",
+    "keywords": "duplicate,cap,school"
+  },
+  {
+    "hex": "E7C0",
+    "name": "",
+    "keywords": "duplicate,train-outline"
+  },
+  {
+    "hex": "E7C1",
+    "name": "Flag",
+    "keywords": ""
+  },
+  {
+    "hex": "E7C3",
+    "name": "Page",
+    "keywords": "document"
+  },
+  {
+    "hex": "E7C4",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7C5",
+    "name": "BrowsePhotos",
+    "keywords": "photos,search"
+  },
+  {
+    "hex": "E7C6",
+    "name": "HalfStarLeft",
+    "keywords": "star"
+  },
+  {
+    "hex": "E7C7",
+    "name": "HalfStarRight",
+    "keywords": "star"
+  },
+  {
+    "hex": "E7C8",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7C9",
+    "name": "TouchPointer",
+    "keywords": ""
+  },
+  {
+    "hex": "E7DE",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7E3",
+    "name": "",
+    "keywords": "duplicate,ferry-outline"
+  },
+  {
+    "hex": "E7E6",
+    "name": "Highlight",
+    "keywords": ""
+  },
+  {
+    "hex": "E7E7",
+    "name": "",
+    "keywords": "duplicate,comment"
+  },
+  {
+    "hex": "E7E8",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7E9",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7EA",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7EB",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7EC",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7ED",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7EE",
+    "name": "OtherUser",
+    "keywords": ""
+  },
+  {
+    "hex": "E7EF",
+    "name": "Admin",
+    "keywords": "sheild,textfield,textbox"
+  },
+  {
+    "hex": "E7F0",
+    "name": "CC",
+    "keywords": "media,controls"
+  },
+  {
+    "hex": "E7F1",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7F2",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7F3",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7F4",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7F5",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7F6",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7F7",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7F8",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7F9",
+    "name": "",
+    "keywords": "duplicate,monitor-left"
+  },
+  {
+    "hex": "E7FA",
+    "name": "",
+    "keywords": "duplicate,monitor-right"
+  },
+  {
+    "hex": "E7FB",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7FC",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E7FD",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E802",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E803",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E804",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E805",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E806",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E809",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E80A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E80C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E80D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E80F",
+    "name": "Home",
+    "keywords": "house"
+  },
+  {
+    "hex": "E811",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E812",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E813",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E814",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E815",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E816",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E817",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E818",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E819",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E81A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E81B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E81C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E81D",
+    "name": "Location",
+    "keywords": "gps"
+  },
+  {
+    "hex": "E81E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E81F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E820",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E821",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E822",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E823",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E824",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E825",
+    "name": "",
+    "keywords": "duplicate,monument,government"
+  },
+  {
+    "hex": "E826",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E827",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E828",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E829",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E82A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E82B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E82C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E82D",
+    "name": "",
+    "keywords": "duplicate,report"
+  },
+  {
+    "hex": "E82E",
+    "name": "",
+    "keywords": "duplicate,book-add,report-add"
+  },
+  {
+    "hex": "E82F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E830",
+    "name": "ChromeBack",
+    "keywords": ""
+  },
+  {
+    "hex": "E831",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E832",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E833",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E834",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E835",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E836",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E837",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E838",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E839",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E83A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E83B",
+    "name": "",
+    "keywords": "duplicate,computer-tower"
+  },
+  {
+    "hex": "E83C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E83D",
+    "name": "",
+    "keywords": "duplicate,brick,castle"
+  },
+  {
+    "hex": "E83E",
+    "name": "BatteryCharging9",
+    "keywords": ""
+  },
+  {
+    "hex": "E83F",
+    "name": "Battery10",
+    "keywords": ""
+  },
+  {
+    "hex": "E840",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E841",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E842",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E844",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E845",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E846",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E847",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E84A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E84B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E84C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E84D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E84E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E84F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E850",
+    "name": "Battery0",
+    "keywords": ""
+  },
+  {
+    "hex": "E851",
+    "name": "Battery1",
+    "keywords": ""
+  },
+  {
+    "hex": "E852",
+    "name": "Battery2",
+    "keywords": ""
+  },
+  {
+    "hex": "E853",
+    "name": "Battery3",
+    "keywords": ""
+  },
+  {
+    "hex": "E854",
+    "name": "Battery4",
+    "keywords": ""
+  },
+  {
+    "hex": "E855",
+    "name": "Battery5",
+    "keywords": ""
+  },
+  {
+    "hex": "E856",
+    "name": "Battery6",
+    "keywords": ""
+  },
+  {
+    "hex": "E857",
+    "name": "Battery7",
+    "keywords": ""
+  },
+  {
+    "hex": "E858",
+    "name": "Battery8",
+    "keywords": ""
+  },
+  {
+    "hex": "E859",
+    "name": "Battery9",
+    "keywords": ""
+  },
+  {
+    "hex": "E85A",
+    "name": "BatteryCharging0",
+    "keywords": ""
+  },
+  {
+    "hex": "E85B",
+    "name": "BatteryCharging1",
+    "keywords": ""
+  },
+  {
+    "hex": "E85C",
+    "name": "BatteryCharging2",
+    "keywords": ""
+  },
+  {
+    "hex": "E85D",
+    "name": "BatteryCharging3",
+    "keywords": ""
+  },
+  {
+    "hex": "E85E",
+    "name": "BatteryCharging4",
+    "keywords": ""
+  },
+  {
+    "hex": "E85F",
+    "name": "BatteryCharging5",
+    "keywords": ""
+  },
+  {
+    "hex": "E860",
+    "name": "BatteryCharging6",
+    "keywords": ""
+  },
+  {
+    "hex": "E861",
+    "name": "BatteryCharging7",
+    "keywords": ""
+  },
+  {
+    "hex": "E862",
+    "name": "BatteryCharging8",
+    "keywords": ""
+  },
+  {
+    "hex": "E863",
+    "name": "BatterySaver0",
+    "keywords": ""
+  },
+  {
+    "hex": "E864",
+    "name": "BatterySaver1",
+    "keywords": ""
+  },
+  {
+    "hex": "E865",
+    "name": "BatterySaver2",
+    "keywords": ""
+  },
+  {
+    "hex": "E866",
+    "name": "BatterySaver3",
+    "keywords": ""
+  },
+  {
+    "hex": "E867",
+    "name": "BatterySaver4",
+    "keywords": ""
+  },
+  {
+    "hex": "E868",
+    "name": "BatterySaver5",
+    "keywords": ""
+  },
+  {
+    "hex": "E869",
+    "name": "BatterySaver6",
+    "keywords": ""
+  },
+  {
+    "hex": "E86A",
+    "name": "BatterySaver7",
+    "keywords": ""
+  },
+  {
+    "hex": "E86B",
+    "name": "BatterySaver8",
+    "keywords": ""
+  },
+  {
+    "hex": "E86C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E86D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E86E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E86F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E870",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E871",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E872",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E873",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E874",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E875",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E876",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E877",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E878",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E879",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E87A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E87B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E87C",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E87D",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E87E",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E87F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E880",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E881",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E882",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E883",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E884",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E885",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E886",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E887",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E888",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E889",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E88A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E88B",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E88C",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E88D",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E88E",
+    "name": "",
+    "keywords": "duplicate,flashdrive"
+  },
+  {
+    "hex": "E88F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E890",
+    "name": "View",
+    "keywords": ""
+  },
+  {
+    "hex": "E891",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E892",
+    "name": "Previous",
+    "keywords": "media,controls"
+  },
+  {
+    "hex": "E893",
+    "name": "Next",
+    "keywords": "media,controls"
+  },
+  {
+    "hex": "E894",
+    "name": "Clear",
+    "keywords": "close"
+  },
+  {
+    "hex": "E895",
+    "name": "Sync",
+    "keywords": ""
+  },
+  {
+    "hex": "E896",
+    "name": "Download",
+    "keywords": ""
+  },
+  {
+    "hex": "E897",
+    "name": "Help",
+    "keywords": "questionmark"
+  },
+  {
+    "hex": "E898",
+    "name": "Upload",
+    "keywords": ""
+  },
+  {
+    "hex": "E899",
+    "name": "Emoji",
+    "keywords": ""
+  },
+  {
+    "hex": "E89A",
+    "name": "TwoPage",
+    "keywords": "page,view,document"
+  },
+  {
+    "hex": "E89B",
+    "name": "LeaveChat",
+    "keywords": "chat,leave,message"
+  },
+  {
+    "hex": "E89C",
+    "name": "MailForward",
+    "keywords": "email,forward"
+  },
+  {
+    "hex": "E89E",
+    "name": "RotateCamera",
+    "keywords": ""
+  },
+  {
+    "hex": "E89F",
+    "name": "ClosePane",
+    "keywords": ""
+  },
+  {
+    "hex": "E8A0",
+    "name": "OpenPane",
+    "keywords": ""
+  },
+  {
+    "hex": "E8A1",
+    "name": "PreviewLink",
+    "keywords": ""
+  },
+  {
+    "hex": "E8A2",
+    "name": "AttachCamera",
+    "keywords": "camera,trigger"
+  },
+  {
+    "hex": "E8A3",
+    "name": "ZoomIn",
+    "keywords": "magnify"
+  },
+  {
+    "hex": "E8A4",
+    "name": "Bookmarks",
+    "keywords": "outline"
+  },
+  {
+    "hex": "E8A5",
+    "name": "Document",
+    "keywords": ""
+  },
+  {
+    "hex": "E8A6",
+    "name": "ProtectedDocument",
+    "keywords": "file,protected,lock"
+  },
+  {
+    "hex": "E8A7",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E8A8",
+    "name": "MailFill",
+    "keywords": "email"
+  },
+  {
+    "hex": "E8A9",
+    "name": "ViewAll",
+    "keywords": ""
+  },
+  {
+    "hex": "E8AA",
+    "name": "VideoChat",
+    "keywords": ""
+  },
+  {
+    "hex": "E8AB",
+    "name": "Switch",
+    "keywords": ""
+  },
+  {
+    "hex": "E8AC",
+    "name": "Rename",
+    "keywords": ""
+  },
+  {
+    "hex": "E8AD",
+    "name": "Go",
+    "keywords": ""
+  },
+  {
+    "hex": "E8AE",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E8AF",
+    "name": "Remote",
+    "keywords": "chevron"
+  },
+  {
+    "hex": "E8B0",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E8B1",
+    "name": "Shuffle",
+    "keywords": ""
+  },
+  {
+    "hex": "E8B3",
+    "name": "SelectAll",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E8B4",
+    "name": "Orientation",
+    "keywords": ""
+  },
+  {
+    "hex": "E8B5",
+    "name": "Import",
+    "keywords": ""
+  },
+  {
+    "hex": "E8B6",
+    "name": "ImportAll",
+    "keywords": ""
+  },
+  {
+    "hex": "E8B7",
+    "name": "Folder",
+    "keywords": ""
+  },
+  {
+    "hex": "E8B8",
+    "name": "Webcam",
+    "keywords": ""
+  },
+  {
+    "hex": "E8B9",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E8BA",
+    "name": "Caption",
+    "keywords": "media,text"
+  },
+  {
+    "hex": "E8BB",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E8BC",
+    "name": "ShowResults",
+    "keywords": ""
+  },
+  {
+    "hex": "E8BD",
+    "name": "Message",
+    "keywords": ""
+  },
+  {
+    "hex": "E8BE",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E8BF",
+    "name": "CalendarDay",
+    "keywords": "calendar,day,date"
+  },
+  {
+    "hex": "E8C0",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E8C1",
+    "name": "Characters",
+    "keywords": ""
+  },
+  {
+    "hex": "E8C2",
+    "name": "MailReplyAll",
+    "keywords": "email,reply all"
+  },
+  {
+    "hex": "E8C3",
+    "name": "Read",
+    "keywords": "email,read"
+  },
+  {
+    "hex": "E8C4",
+    "name": "ShowBCC",
+    "keywords": "email"
+  },
+  {
+    "hex": "E8C5",
+    "name": "HideBCC",
+    "keywords": "email"
+  },
+  {
+    "hex": "E8C6",
+    "name": "Cut",
+    "keywords": "cut,content"
+  },
+  {
+    "hex": "E8C8",
+    "name": "Copy",
+    "keywords": "pages,content"
+  },
+  {
+    "hex": "E8C9",
+    "name": "Important",
+    "keywords": "alert"
+  },
+  {
+    "hex": "E8CA",
+    "name": "MailReply",
+    "keywords": "email,reply"
+  },
+  {
+    "hex": "E8CB",
+    "name": "Sort",
+    "keywords": ""
+  },
+  {
+    "hex": "E8CC",
+    "name": "",
+    "keywords": "duplicate,mobile"
+  },
+  {
+    "hex": "E8CD",
+    "name": "DisconnectDrive",
+    "keywords": "drive,network"
+  },
+  {
+    "hex": "E8CE",
+    "name": "MapDrive",
+    "keywords": "network,drive"
+  },
+  {
+    "hex": "E8CF",
+    "name": "ContactPresence",
+    "keywords": "account"
+  },
+  {
+    "hex": "E8D0",
+    "name": "Priority",
+    "keywords": ""
+  },
+  {
+    "hex": "E8D1",
+    "name": "GoToToday",
+    "keywords": "calendar,date,today"
+  },
+  {
+    "hex": "E8D2",
+    "name": "Font",
+    "keywords": "font,format"
+  },
+  {
+    "hex": "E8D3",
+    "name": "Fontcolor",
+    "keywords": "format,font"
+  },
+  {
+    "hex": "E8D4",
+    "name": "Contact2",
+    "keywords": "account"
+  },
+  {
+    "hex": "E8D5",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E8D6",
+    "name": "Audio",
+    "keywords": "music"
+  },
+  {
+    "hex": "E8D7",
+    "name": "Permissions",
+    "keywords": ""
+  },
+  {
+    "hex": "E8D8",
+    "name": "DisableUpdates",
+    "keywords": ""
+  },
+  {
+    "hex": "E8D9",
+    "name": "Unfavorite",
+    "keywords": "star,block"
+  },
+  {
+    "hex": "E8DA",
+    "name": "OpenLocal",
+    "keywords": "folder,up"
+  },
+  {
+    "hex": "E8DB",
+    "name": "Italic",
+    "keywords": "format"
+  },
+  {
+    "hex": "E8DC",
+    "name": "Underline",
+    "keywords": "format"
+  },
+  {
+    "hex": "E8DD",
+    "name": "Bold",
+    "keywords": "strong,format"
+  },
+  {
+    "hex": "E8DE",
+    "name": "MoveToFolder",
+    "keywords": "folder"
+  },
+  {
+    "hex": "E8DF",
+    "name": "LikeDislike",
+    "keywords": ""
+  },
+  {
+    "hex": "E8E0",
+    "name": "Dislike",
+    "keywords": ""
+  },
+  {
+    "hex": "E8E1",
+    "name": "Like",
+    "keywords": ""
+  },
+  {
+    "hex": "E8E2",
+    "name": "AlignRight",
+    "keywords": "align,right,format"
+  },
+  {
+    "hex": "E8E3",
+    "name": "AlignCenter",
+    "keywords": "align,center,format"
+  },
+  {
+    "hex": "E8E4",
+    "name": "AlignLeft",
+    "keywords": "align,left,format"
+  },
+  {
+    "hex": "E8E5",
+    "name": "OpenFile",
+    "keywords": "file,document,open,up"
+  },
+  {
+    "hex": "E8E6",
+    "name": "ClearSelection",
+    "keywords": ""
+  },
+  {
+    "hex": "E8E7",
+    "name": "FontDecrease",
+    "keywords": "text,format"
+  },
+  {
+    "hex": "E8E8",
+    "name": "FontIncrease",
+    "keywords": "text,format"
+  },
+  {
+    "hex": "E8E9",
+    "name": "FontSize",
+    "keywords": "text,format"
+  },
+  {
+    "hex": "E8EA",
+    "name": "Cellphone",
+    "keywords": ""
+  },
+  {
+    "hex": "E8EB",
+    "name": "Reshare",
+    "keywords": "retweet"
+  },
+  {
+    "hex": "E8EC",
+    "name": "Tag",
+    "keywords": ""
+  },
+  {
+    "hex": "E8ED",
+    "name": "RepeatOne",
+    "keywords": ""
+  },
+  {
+    "hex": "E8EE",
+    "name": "RepeatAll",
+    "keywords": ""
+  },
+  {
+    "hex": "E8EF",
+    "name": "Calculator",
+    "keywords": "math"
+  },
+  {
+    "hex": "E8F0",
+    "name": "Directions",
+    "keywords": ""
+  },
+  {
+    "hex": "E8F1",
+    "name": "Library",
+    "keywords": "books"
+  },
+  {
+    "hex": "E8F2",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E8F3",
+    "name": "PostUpdate",
+    "keywords": ""
+  },
+  {
+    "hex": "E8F4",
+    "name": "NewFolder",
+    "keywords": "folder,new,plus,add"
+  },
+  {
+    "hex": "E8F5",
+    "name": "CalendarWeek",
+    "keywords": "calendar,week,date"
+  },
+  {
+    "hex": "E8F6",
+    "name": "UnSyncFolder",
+    "keywords": "sync"
+  },
+  {
+    "hex": "E8F7",
+    "name": "SyncFolder",
+    "keywords": ""
+  },
+  {
+    "hex": "E8F8",
+    "name": "BlockContact",
+    "keywords": "block,account,contact"
+  },
+  {
+    "hex": "E8F9",
+    "name": "SwitchApps",
+    "keywords": ""
+  },
+  {
+    "hex": "E8FA",
+    "name": "AddFriend",
+    "keywords": "add,plus,account"
+  },
+  {
+    "hex": "E8FB",
+    "name": "Accept",
+    "keywords": "Check"
+  },
+  {
+    "hex": "E8FC",
+    "name": "GoToStart",
+    "keywords": ""
+  },
+  {
+    "hex": "E8FD",
+    "name": "BulletedList",
+    "keywords": "bullet,list"
+  },
+  {
+    "hex": "E8FE",
+    "name": "Scan",
+    "keywords": "device"
+  },
+  {
+    "hex": "E8FF",
+    "name": "Preview",
+    "keywords": "document,file"
+  },
+  {
+    "hex": "E904",
+    "name": "ZeroBars",
+    "keywords": ""
+  },
+  {
+    "hex": "E905",
+    "name": "OneBar",
+    "keywords": "wifi,signal"
+  },
+  {
+    "hex": "E906",
+    "name": "TwoBars",
+    "keywords": "wifi,signal"
+  },
+  {
+    "hex": "E907",
+    "name": "ThreeBars",
+    "keywords": "wifi,signal"
+  },
+  {
+    "hex": "E908",
+    "name": "FourBars",
+    "keywords": "wifi,signal"
+  },
+  {
+    "hex": "E909",
+    "name": "World",
+    "keywords": ""
+  },
+  {
+    "hex": "E90A",
+    "name": "Comment",
+    "keywords": "quotes"
+  },
+  {
+    "hex": "E90B",
+    "name": "MusicInfo",
+    "keywords": "audio"
+  },
+  {
+    "hex": "E90C",
+    "name": "DockLeft",
+    "keywords": ""
+  },
+  {
+    "hex": "E90D",
+    "name": "DockRight",
+    "keywords": ""
+  },
+  {
+    "hex": "E90E",
+    "name": "DockBottom",
+    "keywords": ""
+  },
+  {
+    "hex": "E90F",
+    "name": "Repair",
+    "keywords": ""
+  },
+  {
+    "hex": "E910",
+    "name": "Accounts",
+    "keywords": "at,email"
+  },
+  {
+    "hex": "E912",
+    "name": "Manage",
+    "keywords": "textbox,textfield,toolbox"
+  },
+  {
+    "hex": "E913",
+    "name": "Street",
+    "keywords": ""
+  },
+  {
+    "hex": "E914",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E915",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E916",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E91B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E91C",
+    "name": "",
+    "keywords": "duplicate,comment-outline"
+  },
+  {
+    "hex": "E91F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E921",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E922",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E923",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E924",
+    "name": "",
+    "keywords": "duplicate,selection-scissor"
+  },
+  {
+    "hex": "E925",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E926",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E927",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E928",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E929",
+    "name": "",
+    "keywords": "duplicate,transcribe"
+  },
+  {
+    "hex": "E92C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E92D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E92E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E92F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E930",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E931",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E933",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E934",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E935",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E936",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E937",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E938",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E939",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E943",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E944",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E945",
+    "name": "",
+    "keywords": "duplicate,lightning"
+  },
+  {
+    "hex": "E946",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E947",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E948",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E949",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E94A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E94B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E94C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E94D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E94E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E94F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E950",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E951",
+    "name": "",
+    "keywords": "duplicate,tv"
+  },
+  {
+    "hex": "E952",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E953",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E954",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E955",
+    "name": "",
+    "keywords": "duplicate,mp3-player"
+  },
+  {
+    "hex": "E956",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E957",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E958",
+    "name": "",
+    "keywords": "duplicate,disk"
+  },
+  {
+    "hex": "E95A",
+    "name": "",
+    "keywords": "duplicate,scan,weather"
+  },
+  {
+    "hex": "E95B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E95D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E95E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E960",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E961",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E962",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E963",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E964",
+    "name": "",
+    "keywords": "duplicate,controller,processor"
+  },
+  {
+    "hex": "E965",
+    "name": "",
+    "keywords": "duplicate,switch"
+  },
+  {
+    "hex": "E966",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E967",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E968",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E969",
+    "name": "",
+    "keywords": "duplicate,switch-wireless"
+  },
+  {
+    "hex": "E96A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E96D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E96E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E96F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E970",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E971",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E972",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E973",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E974",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E975",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E976",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E977",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E978",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E979",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E97A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E97B",
+    "name": "SetTile",
+    "keywords": ""
+  },
+  {
+    "hex": "E97C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E97D",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E97E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E97F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E980",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E981",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E982",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E983",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E984",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E985",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E986",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E987",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E988",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E989",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E98A",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E98F",
+    "name": "",
+    "keywords": "duplicate,construction"
+  },
+  {
+    "hex": "E990",
+    "name": "",
+    "keywords": "duplicate,console,one"
+  },
+  {
+    "hex": "E992",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E993",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E994",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E995",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E996",
+    "name": "BatteryUnknown",
+    "keywords": ""
+  },
+  {
+    "hex": "E998",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9A1",
+    "name": "",
+    "keywords": "duplicate,share"
+  },
+  {
+    "hex": "E9A8",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9A9",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9AA",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9AB",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9AC",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9AE",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9AF",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "E9B3",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9B4",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9B5",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9B6",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9B7",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9B8",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9B9",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9BA",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9BB",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "E9BC",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA1F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA21",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA24",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA25",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA26",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA27",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA28",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA29",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "EA2A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA2B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA2C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA2D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA2E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA2F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA30",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA31",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA32",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA33",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA34",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA35",
+    "name": "",
+    "keywords": "duplicate,save-all"
+  },
+  {
+    "hex": "EA37",
+    "name": "List",
+    "keywords": "format"
+  },
+  {
+    "hex": "EA38",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA39",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA3A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA3B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA40",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA41",
+    "name": "",
+    "keywords": "duplicate,rtl"
+  },
+  {
+    "hex": "EA42",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA43",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA44",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA47",
+    "name": "ChromeBackMirrored",
+    "keywords": ""
+  },
+  {
+    "hex": "EA48",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA49",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA4A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA4B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA4C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA4E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA4F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA50",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA51",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA52",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA53",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA54",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA55",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA56",
+    "name": "",
+    "keywords": "duplicate,rtl"
+  },
+  {
+    "hex": "EA57",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA58",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA5B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA5C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA5E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA5F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA60",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA61",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA62",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA63",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA64",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA65",
+    "name": "",
+    "keywords": "duplicate,rtl"
+  },
+  {
+    "hex": "EA69",
+    "name": "",
+    "keywords": "duplicate,audio,video,film"
+  },
+  {
+    "hex": "EA6A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA6C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA80",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA81",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA82",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA83",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA84",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA86",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA89",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA8A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA8B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA8C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA8D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA8E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA8F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA91",
+    "name": "",
+    "keywords": "duplicate,idea,cloud"
+  },
+  {
+    "hex": "EA92",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA93",
+    "name": "BatteryCharging10",
+    "keywords": ""
+  },
+  {
+    "hex": "EA94",
+    "name": "BatterySaver9",
+    "keywords": ""
+  },
+  {
+    "hex": "EA95",
+    "name": "BatterySaver10",
+    "keywords": ""
+  },
+  {
+    "hex": "EA97",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EA98",
+    "name": "",
+    "keywords": "duplicate,rtl"
+  },
+  {
+    "hex": "EA99",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB47",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB48",
+    "name": "",
+    "keywords": "duplicate,ferry"
+  },
+  {
+    "hex": "EB49",
+    "name": "",
+    "keywords": "duplicate,map-pin-play"
+  },
+  {
+    "hex": "EB4A",
+    "name": "",
+    "keywords": "duplicate,map-pin-pause"
+  },
+  {
+    "hex": "EB4B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB4C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB4D",
+    "name": "",
+    "keywords": "duplicate,train"
+  },
+  {
+    "hex": "EB4E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB4F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB50",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB51",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB52",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB55",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB56",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB57",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB58",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB59",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB5A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB5B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB5C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB5D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB5E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB5F",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB60",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB61",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB62",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB63",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB66",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB67",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB68",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB7E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB82",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB83",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB84",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB85",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB86",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB87",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB88",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB89",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB8A",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB8B",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB8C",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB8D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB90",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB91",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB95",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB96",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB97",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB9D",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB9E",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EB9F",
+    "name": "",
+    "keywords": "duplicate,picture"
+  },
+  {
+    "hex": "EBA0",
+    "name": "MobBattery0",
+    "keywords": ""
+  },
+  {
+    "hex": "EBA1",
+    "name": "MobBattery1",
+    "keywords": ""
+  },
+  {
+    "hex": "EBA2",
+    "name": "MobBattery2",
+    "keywords": ""
+  },
+  {
+    "hex": "EBA3",
+    "name": "MobBattery3",
+    "keywords": ""
+  },
+  {
+    "hex": "EBA4",
+    "name": "MobBattery4",
+    "keywords": ""
+  },
+  {
+    "hex": "EBA5",
+    "name": "MobBattery5",
+    "keywords": ""
+  },
+  {
+    "hex": "EBA6",
+    "name": "MobBattery6",
+    "keywords": ""
+  },
+  {
+    "hex": "EBA7",
+    "name": "MobBattery7",
+    "keywords": ""
+  },
+  {
+    "hex": "EBA8",
+    "name": "MobBattery8",
+    "keywords": ""
+  },
+  {
+    "hex": "EBA9",
+    "name": "MobBattery9",
+    "keywords": ""
+  },
+  {
+    "hex": "EBAA",
+    "name": "MobBattery10",
+    "keywords": ""
+  },
+  {
+    "hex": "EBAB",
+    "name": "MobBatteryCharging0",
+    "keywords": ""
+  },
+  {
+    "hex": "EBAC",
+    "name": "MobBatteryCharging1",
+    "keywords": ""
+  },
+  {
+    "hex": "EBAD",
+    "name": "MobBatteryCharging2",
+    "keywords": ""
+  },
+  {
+    "hex": "EBAE",
+    "name": "MobBatteryCharging3",
+    "keywords": ""
+  },
+  {
+    "hex": "EBAF",
+    "name": "MobBatteryCharging4",
+    "keywords": ""
+  },
+  {
+    "hex": "EBB0",
+    "name": "MobBatteryCharging5",
+    "keywords": ""
+  },
+  {
+    "hex": "EBB1",
+    "name": "MobBatteryCharging6",
+    "keywords": ""
+  },
+  {
+    "hex": "EBB2",
+    "name": "MobBatteryCharging7",
+    "keywords": ""
+  },
+  {
+    "hex": "EBB3",
+    "name": "MobBatteryCharging8",
+    "keywords": ""
+  },
+  {
+    "hex": "EBB4",
+    "name": "MobBatteryCharging9",
+    "keywords": ""
+  },
+  {
+    "hex": "EBB5",
+    "name": "MobBatteryChargin10",
+    "keywords": ""
+  },
+  {
+    "hex": "EBB6",
+    "name": "MobBatterySaver0",
+    "keywords": ""
+  },
+  {
+    "hex": "EBB7",
+    "name": "MobBatterySaver1",
+    "keywords": ""
+  },
+  {
+    "hex": "EBB8",
+    "name": "MobBatterySaver2",
+    "keywords": ""
+  },
+  {
+    "hex": "EBB9",
+    "name": "MobBatterySaver3",
+    "keywords": ""
+  },
+  {
+    "hex": "EBBA",
+    "name": "MobBatterySaver4",
+    "keywords": ""
+  },
+  {
+    "hex": "EBBB",
+    "name": "MobBatterySaver5",
+    "keywords": ""
+  },
+  {
+    "hex": "EBBC",
+    "name": "MobBatterySaver6",
+    "keywords": ""
+  },
+  {
+    "hex": "EBBD",
+    "name": "MobBatterySaver7",
+    "keywords": ""
+  },
+  {
+    "hex": "EBBE",
+    "name": "MobBatterySaver8",
+    "keywords": ""
+  },
+  {
+    "hex": "EBBF",
+    "name": "MobBatterySaver9",
+    "keywords": ""
+  },
+  {
+    "hex": "EBC0",
+    "name": "MobBatterySaver10",
+    "keywords": ""
+  },
+  {
+    "hex": "EBC2",
+    "name": "",
+    "keywords": "language"
+  },
+  {
+    "hex": "EBC3",
+    "name": "",
+    "keywords": "duplicate"
+  },
+  {
+    "hex": "EC02",
+    "name": "MobBatteryUnknown",
+    "keywords": ""
+  }
+]
