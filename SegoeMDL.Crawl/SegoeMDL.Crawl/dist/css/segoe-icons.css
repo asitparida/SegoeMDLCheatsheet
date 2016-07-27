@@ -12,34 +12,34 @@
     /* KEYWORDS - Check */
     content: "\E8FB"; }
   .icon.icon-accounts:before {
-    /* KEYWORDS - at email */
+    /* KEYWORDS - at, email */
     content: "\E910"; }
   .icon.icon-add:before {
-    /* KEYWORDS - plus math */
+    /* KEYWORDS - plus, math */
     content: "\E710"; }
   .icon.icon-addFriend:before {
-    /* KEYWORDS - add plus account */
+    /* KEYWORDS - add, plus, account */
     content: "\E8FA"; }
   .icon.icon-admin:before {
-    /* KEYWORDS - sheild textfield textbox */
+    /* KEYWORDS - sheild, textfield, textbox */
     content: "\E7EF"; }
   .icon.icon-airplane:before {
-    /* KEYWORDS - DUP airplane plane */
+    /* KEYWORDS - DUP airplane, plane */
     content: "\E122"; }
   .icon.icon-alert:before {
     /* KEYWORDS - DUP alert */
     content: "\E171"; }
   .icon.icon-alignCenter:before {
-    /* KEYWORDS - align center format */
+    /* KEYWORDS - align, center, format */
     content: "\E8E3"; }
   .icon.icon-alignLeft:before {
-    /* KEYWORDS - align left format */
+    /* KEYWORDS - align, left, format */
     content: "\E8E4"; }
   .icon.icon-alignRight:before {
-    /* KEYWORDS - align right format */
+    /* KEYWORDS - align, right, format */
     content: "\E8E2"; }
   .icon.icon-allApps:before {
-    /* KEYWORDS - checkbox list */
+    /* KEYWORDS - checkbox, list */
     content: "\E71D"; }
   .icon.icon-arrowHTMLLegacy:before {
     /* KEYWORDS - legacy */
@@ -51,13 +51,13 @@
     /* KEYWORDS - paperclip */
     content: "\E723"; }
   .icon.icon-attachCamera:before {
-    /* KEYWORDS - camera trigger */
+    /* KEYWORDS - camera, trigger */
     content: "\E8A2"; }
   .icon.icon-audio-142:before {
-    /* KEYWORDS - DUP audio playlist music */
+    /* KEYWORDS - DUP audio, playlist, music */
     content: "\E142"; }
   .icon.icon-audio-14B:before {
-    /* KEYWORDS - DUP audio music */
+    /* KEYWORDS - DUP audio, music */
     content: "\E14B"; }
   .icon.icon-audio-15D:before {
     /* KEYWORDS - DUP audio */
@@ -66,10 +66,10 @@
     /* KEYWORDS - music */
     content: "\E8D6"; }
   .icon.icon-audio-A69:before {
-    /* KEYWORDS - DUP audio video film */
+    /* KEYWORDS - DUP audio, video, film */
     content: "\EA69"; }
   .icon.icon-back:before {
-    /* KEYWORDS - back arrow left */
+    /* KEYWORDS - back, arrow, left */
     content: "\E72B"; }
   .icon.icon-backBttnArrow20Legacy:before {
     /* KEYWORDS - legacy */
@@ -189,16 +189,16 @@
     /* KEYWORDS -  */
     content: "\E996"; }
   .icon.icon-blockContact:before {
-    /* KEYWORDS - block account contact */
+    /* KEYWORDS - block, account, contact */
     content: "\E8F8"; }
   .icon.icon-blockedLegacy:before {
     /* KEYWORDS - legacy */
     content: "\E25B"; }
   .icon.icon-bold:before {
-    /* KEYWORDS - strong format */
+    /* KEYWORDS - strong, format */
     content: "\E8DD"; }
   .icon.icon-book-add:before {
-    /* KEYWORDS - DUP book-add report-add */
+    /* KEYWORDS - DUP book-add, report-add */
     content: "\E82E"; }
   .icon.icon-bookmarks:before {
     /* KEYWORDS - outline */
@@ -207,25 +207,25 @@
     /* KEYWORDS - DUP books */
     content: "\E1D3"; }
   .icon.icon-bow:before {
-    /* KEYWORDS - DUP bow compass */
+    /* KEYWORDS - DUP bow, compass */
     content: "\E1D1"; }
   .icon.icon-box:before {
     /* KEYWORDS - DUP box */
     content: "\E7B8"; }
   .icon.icon-brick:before {
-    /* KEYWORDS - DUP brick castle */
+    /* KEYWORDS - DUP brick, castle */
     content: "\E83D"; }
   .icon.icon-browsePhotos:before {
-    /* KEYWORDS - photos search */
+    /* KEYWORDS - photos, search */
     content: "\E7C5"; }
   .icon.icon-bullet:before {
     /* KEYWORDS - DUP bullet */
     content: "\E292"; }
   .icon.icon-bulletedList:before {
-    /* KEYWORDS - bullet list */
+    /* KEYWORDS - bullet, list */
     content: "\E8FD"; }
   .icon.icon-cC:before {
-    /* KEYWORDS - media controls */
+    /* KEYWORDS - media, controls */
     content: "\E7F0"; }
   .icon.icon-calculator:before {
     /* KEYWORDS - math */
@@ -234,10 +234,10 @@
     /* KEYWORDS - date */
     content: "\E787"; }
   .icon.icon-calendarDay:before {
-    /* KEYWORDS - calendar day date */
+    /* KEYWORDS - calendar, day, date */
     content: "\E8BF"; }
   .icon.icon-calendarWeek:before {
-    /* KEYWORDS - calendar week date */
+    /* KEYWORDS - calendar, week, date */
     content: "\E8F5"; }
   .icon.icon-camera:before {
     /* KEYWORDS - photo */
@@ -246,10 +246,10 @@
     /* KEYWORDS -  */
     content: "\E711"; }
   .icon.icon-cap:before {
-    /* KEYWORDS - DUP cap school */
+    /* KEYWORDS - DUP cap, school */
     content: "\E7BE"; }
   .icon.icon-caption:before {
-    /* KEYWORDS - media text */
+    /* KEYWORDS - media, text */
     content: "\E8BA"; }
   .icon.icon-cellphone:before {
     /* KEYWORDS -  */
@@ -264,7 +264,7 @@
     /* KEYWORDS -  */
     content: "\E73E"; }
   .icon.icon-checkMarkLegacy:before {
-    /* KEYWORDS - legacy checkmark check mark */
+    /* KEYWORDS - legacy, checkmark, check, mark */
     content: "\E001"; }
   .icon.icon-checkMarkZeroWidthLegacy:before {
     /* KEYWORDS - legacy */
@@ -288,10 +288,10 @@
     /* KEYWORDS -  */
     content: "\E73B"; }
   .icon.icon-checkboxFillLegacy:before {
-    /* KEYWORDS - legacy solid box */
+    /* KEYWORDS - legacy, solid, box */
     content: "\E002"; }
   .icon.icon-checkboxFillZeroWidthLegacy:before {
-    /* KEYWORDS - legacy zero-width */
+    /* KEYWORDS - legacy, zero-width */
     content: "\E009"; }
   .icon.icon-checkboxIndeterminate:before {
     /* KEYWORDS -  */
@@ -345,7 +345,7 @@
     /* KEYWORDS - DUP connect */
     content: "\E17B"; }
   .icon.icon-console:before {
-    /* KEYWORDS - DUP console one */
+    /* KEYWORDS - DUP console, one */
     content: "\E990"; }
   .icon.icon-construction:before {
     /* KEYWORDS - DUP construction */
@@ -357,7 +357,7 @@
     /* KEYWORDS - account */
     content: "\E8D4"; }
   .icon.icon-contactInfo:before {
-    /* KEYWORDS - account information */
+    /* KEYWORDS - account, information */
     content: "\E779"; }
   .icon.icon-contactPresence:before {
     /* KEYWORDS - account */
@@ -366,25 +366,25 @@
     /* KEYWORDS - DUP contacts */
     content: "\E1D4"; }
   .icon.icon-controller:before {
-    /* KEYWORDS - DUP controller processor */
+    /* KEYWORDS - DUP controller, processor */
     content: "\E964"; }
   .icon.icon-coordinate:before {
     /* KEYWORDS - DUP coordinate */
     content: "\E1D2"; }
   .icon.icon-copy:before {
-    /* KEYWORDS - pages content */
+    /* KEYWORDS - pages, content */
     content: "\E8C8"; }
   .icon.icon-crop:before {
     /* KEYWORDS -  */
     content: "\E7A8"; }
   .icon.icon-cut:before {
-    /* KEYWORDS - cut content */
+    /* KEYWORDS - cut, content */
     content: "\E8C6"; }
   .icon.icon-day:before {
     /* KEYWORDS - DUP day */
     content: "\E706"; }
   .icon.icon-delete:before {
-    /* KEYWORDS - trash remove content */
+    /* KEYWORDS - trash, remove, content */
     content: "\E74D"; }
   .icon.icon-directions:before {
     /* KEYWORDS -  */
@@ -396,7 +396,7 @@
     /* KEYWORDS - DUP disconnect */
     content: "\E17A"; }
   .icon.icon-disconnectDrive:before {
-    /* KEYWORDS - drive network */
+    /* KEYWORDS - drive, network */
     content: "\E8CD"; }
   .icon.icon-disk:before {
     /* KEYWORDS - DUP disk */
@@ -432,7 +432,7 @@
     /* KEYWORDS - DUP earth */
     content: "\E128"; }
   .icon.icon-earth-12B:before {
-    /* KEYWORDS - DUP earth web wire */
+    /* KEYWORDS - DUP earth, web, wire */
     content: "\E12B"; }
   .icon.icon-edit:before {
     /* KEYWORDS - pencil */
@@ -483,28 +483,28 @@
     /* KEYWORDS -  */
     content: "\E8B7"; }
   .icon.icon-font:before {
-    /* KEYWORDS - font format */
+    /* KEYWORDS - font, format */
     content: "\E8D2"; }
   .icon.icon-fontDecrease:before {
-    /* KEYWORDS - text format */
+    /* KEYWORDS - text, format */
     content: "\E8E7"; }
   .icon.icon-fontIncrease:before {
-    /* KEYWORDS - text format */
+    /* KEYWORDS - text, format */
     content: "\E8E8"; }
   .icon.icon-fontSize:before {
-    /* KEYWORDS - text format */
+    /* KEYWORDS - text, format */
     content: "\E8E9"; }
   .icon.icon-fontcolor:before {
-    /* KEYWORDS - format font */
+    /* KEYWORDS - format, font */
     content: "\E8D3"; }
   .icon.icon-forward:before {
-    /* KEYWORDS - arrow right */
+    /* KEYWORDS - arrow, right */
     content: "\E72A"; }
   .icon.icon-forward-slash:before {
     /* KEYWORDS - DUP forward-slash */
     content: "\E199"; }
   .icon.icon-fourBars:before {
-    /* KEYWORDS - wifi signal */
+    /* KEYWORDS - wifi, signal */
     content: "\E908"; }
   .icon.icon-fullScreen:before {
     /* KEYWORDS - expand */
@@ -2469,7 +2469,7 @@
     /* KEYWORDS -  */
     content: "\E8FC"; }
   .icon.icon-goToToday:before {
-    /* KEYWORDS - calendar date today */
+    /* KEYWORDS - calendar, date, today */
     content: "\E8D1"; }
   .icon.icon-halfStarLeft:before {
     /* KEYWORDS - star */
@@ -2478,7 +2478,7 @@
     /* KEYWORDS - star */
     content: "\E7C7"; }
   .icon.icon-hamburger:before {
-    /* KEYWORDS - DUP hamburger mmm */
+    /* KEYWORDS - DUP hamburger, mmm */
     content: "\E700"; }
   .icon.icon-hangup:before {
     /* KEYWORDS - phone */
@@ -2487,13 +2487,13 @@
     /* KEYWORDS - legacy */
     content: "\E007"; }
   .icon.icon-heartBrokenZeroWidthLegacy:before {
-    /* KEYWORDS - legacy zero-width */
+    /* KEYWORDS - legacy, zero-width */
     content: "\E00C"; }
   .icon.icon-heartFillLegacy:before {
     /* KEYWORDS - legacy */
     content: "\E0A5"; }
   .icon.icon-heartFillZeroWidthLegacy:before {
-    /* KEYWORDS - legacy zero-width */
+    /* KEYWORDS - legacy, zero-width */
     content: "\E00B"; }
   .icon.icon-heartLegacy:before {
     /* KEYWORDS - legacy */
@@ -2514,7 +2514,7 @@
     /* KEYWORDS - DUP house */
     content: "\E1C3"; }
   .icon.icon-idea:before {
-    /* KEYWORDS - DUP idea cloud */
+    /* KEYWORDS - DUP idea, cloud */
     content: "\EA91"; }
   .icon.icon-import:before {
     /* KEYWORDS -  */
@@ -2529,16 +2529,16 @@
     /* KEYWORDS - format */
     content: "\E8DB"; }
   .icon.icon-keyboard:before {
-    /* KEYWORDS - DUP keyboard split */
+    /* KEYWORDS - DUP keyboard, split */
     content: "\E08F"; }
   .icon.icon-keyboardClassic:before {
     /* KEYWORDS -  */
     content: "\E765"; }
   .icon.icon-laptop:before {
-    /* KEYWORDS - DUP laptop tablet mobile */
+    /* KEYWORDS - DUP laptop, tablet, mobile */
     content: "\E212"; }
   .icon.icon-leaveChat:before {
-    /* KEYWORDS - chat leave message */
+    /* KEYWORDS - chat, leave, message */
     content: "\E89B"; }
   .icon.icon-library:before {
     /* KEYWORDS - books */
@@ -2574,22 +2574,22 @@
     /* KEYWORDS - email */
     content: "\E8A8"; }
   .icon.icon-mailForward:before {
-    /* KEYWORDS - email forward */
+    /* KEYWORDS - email, forward */
     content: "\E89C"; }
   .icon.icon-mailMessageLegacy:before {
     /* KEYWORDS - legacy */
     content: "\E20B"; }
   .icon.icon-mailReply:before {
-    /* KEYWORDS - email reply */
+    /* KEYWORDS - email, reply */
     content: "\E8CA"; }
   .icon.icon-mailReplyAll:before {
-    /* KEYWORDS - email reply all */
+    /* KEYWORDS - email, reply all */
     content: "\E8C2"; }
   .icon.icon-manage:before {
-    /* KEYWORDS - textbox textfield toolbox */
+    /* KEYWORDS - textbox, textfield, toolbox */
     content: "\E912"; }
   .icon.icon-map:before {
-    /* KEYWORDS - DUP map location pin */
+    /* KEYWORDS - DUP map, location, pin */
     content: "\E1C4"; }
   .icon.icon-map-pin-pause:before {
     /* KEYWORDS - DUP map-pin-pause */
@@ -2598,13 +2598,13 @@
     /* KEYWORDS - DUP map-pin-play */
     content: "\EB49"; }
   .icon.icon-mapDrive:before {
-    /* KEYWORDS - network drive */
+    /* KEYWORDS - network, drive */
     content: "\E8CE"; }
   .icon.icon-mappin:before {
-    /* KEYWORDS - map pin */
+    /* KEYWORDS - map, pin */
     content: "\E707"; }
   .icon.icon-market:before {
-    /* KEYWORDS - DUP market shopping */
+    /* KEYWORDS - DUP market, shopping */
     content: "\E14D"; }
   .icon.icon-math-108:before {
     /* KEYWORDS - DUP math */
@@ -2613,13 +2613,13 @@
     /* KEYWORDS - DUP math */
     content: "\E109"; }
   .icon.icon-math-1D0:before {
-    /* KEYWORDS - DUP math equation */
+    /* KEYWORDS - DUP math, equation */
     content: "\E1D0"; }
   .icon.icon-media-190:before {
     /* KEYWORDS - DUP media */
     content: "\E190"; }
   .icon.icon-media-1CA:before {
-    /* KEYWORDS - DUP media audio */
+    /* KEYWORDS - DUP media, audio */
     content: "\E1CA"; }
   .icon.icon-memo:before {
     /* KEYWORDS -  */
@@ -2754,7 +2754,7 @@
     /* KEYWORDS - DUP monitor-right */
     content: "\E7FA"; }
   .icon.icon-monument:before {
-    /* KEYWORDS - DUP monument government */
+    /* KEYWORDS - DUP monument, government */
     content: "\E825"; }
   .icon.icon-more:before {
     /* KEYWORDS - ellipse */
@@ -2769,16 +2769,16 @@
     /* KEYWORDS - audio */
     content: "\E90B"; }
   .icon.icon-mute:before {
-    /* KEYWORDS - volume sound */
+    /* KEYWORDS - volume, sound */
     content: "\E74F"; }
   .icon.icon-newFolder:before {
-    /* KEYWORDS - folder new plus add */
+    /* KEYWORDS - folder, new, plus, add */
     content: "\E8F4"; }
   .icon.icon-newWindow:before {
-    /* KEYWORDS - open window */
+    /* KEYWORDS - open, window */
     content: "\E78B"; }
   .icon.icon-next:before {
-    /* KEYWORDS - media controls */
+    /* KEYWORDS - media, controls */
     content: "\E893"; }
   .icon.icon-night:before {
     /* KEYWORDS - DUP night */
@@ -2790,13 +2790,13 @@
     /* KEYWORDS - DUP notification */
     content: "\E781"; }
   .icon.icon-oneBar:before {
-    /* KEYWORDS - wifi signal */
+    /* KEYWORDS - wifi, signal */
     content: "\E905"; }
   .icon.icon-openFile:before {
-    /* KEYWORDS - file document open up */
+    /* KEYWORDS - file, document, open, up */
     content: "\E8E5"; }
   .icon.icon-openLocal:before {
-    /* KEYWORDS - folder up */
+    /* KEYWORDS - folder, up */
     content: "\E8DA"; }
   .icon.icon-openPane:before {
     /* KEYWORDS -  */
@@ -2823,7 +2823,7 @@
     /* KEYWORDS - content */
     content: "\E77F"; }
   .icon.icon-pause:before {
-    /* KEYWORDS - media controls */
+    /* KEYWORDS - media, controls */
     content: "\E769"; }
   .icon.icon-pencil:before {
     /* KEYWORDS - DUP pencil */
@@ -2841,7 +2841,7 @@
     /* KEYWORDS -  */
     content: "\E717"; }
   .icon.icon-phoneBook:before {
-    /* KEYWORDS - phone call */
+    /* KEYWORDS - phone, call */
     content: "\E780"; }
   .icon.icon-picture:before {
     /* KEYWORDS - DUP picture */
@@ -2850,7 +2850,7 @@
     /* KEYWORDS -  */
     content: "\E718"; }
   .icon.icon-play:before {
-    /* KEYWORDS - media controls */
+    /* KEYWORDS - media, controls */
     content: "\E768"; }
   .icon.icon-pointer:before {
     /* KEYWORDS - DUP pointer */
@@ -2865,22 +2865,22 @@
     /* KEYWORDS - legacy */
     content: "\E25D"; }
   .icon.icon-preview:before {
-    /* KEYWORDS - document file */
+    /* KEYWORDS - document, file */
     content: "\E8FF"; }
   .icon.icon-previewLink:before {
     /* KEYWORDS -  */
     content: "\E8A1"; }
   .icon.icon-previous:before {
-    /* KEYWORDS - media controls */
+    /* KEYWORDS - media, controls */
     content: "\E892"; }
   .icon.icon-priority:before {
     /* KEYWORDS -  */
     content: "\E8D0"; }
   .icon.icon-profile:before {
-    /* KEYWORDS - DUP profile details */
+    /* KEYWORDS - DUP profile, details */
     content: "\E12A"; }
   .icon.icon-protectedDocument:before {
-    /* KEYWORDS - file protected lock */
+    /* KEYWORDS - file, protected, lock */
     content: "\E8A6"; }
   .icon.icon-questionmark:before {
     /* KEYWORDS - DUP questionmark */
@@ -2895,13 +2895,13 @@
     /* KEYWORDS - DUP duplicate */
     content: "\E0B5"; }
   .icon.icon-ratingStarFillZeroWidthLegacy:before {
-    /* KEYWORDS - legacy zero-width */
+    /* KEYWORDS - legacy, zero-width */
     content: "\E00A"; }
   .icon.icon-ratingStarLegacy:before {
     /* KEYWORDS - legacy */
     content: "\E224"; }
   .icon.icon-read:before {
-    /* KEYWORDS - email read */
+    /* KEYWORDS - email, read */
     content: "\E8C3"; }
   .icon.icon-redo:before {
     /* KEYWORDS -  */
@@ -2916,13 +2916,13 @@
     /* KEYWORDS - DUP region-settings */
     content: "\E775"; }
   .icon.icon-reload:before {
-    /* KEYWORDS - DUP reload refresh */
+    /* KEYWORDS - DUP reload, refresh */
     content: "\E1CD"; }
   .icon.icon-remote:before {
     /* KEYWORDS - chevron */
     content: "\E8AF"; }
   .icon.icon-remove:before {
-    /* KEYWORDS - minus math */
+    /* KEYWORDS - minus, math */
     content: "\E738"; }
   .icon.icon-rename:before {
     /* KEYWORDS -  */
@@ -3000,7 +3000,7 @@
     /* KEYWORDS - device */
     content: "\E8FE"; }
   .icon.icon-scan-95A:before {
-    /* KEYWORDS - DUP scan weather */
+    /* KEYWORDS - DUP scan, weather */
     content: "\E95A"; }
   .icon.icon-scrollChevronDownBoldLegacy:before {
     /* KEYWORDS - legacy */
@@ -3033,7 +3033,7 @@
     /* KEYWORDS - DUP search-plus */
     content: "\E12E"; }
   .icon.icon-select:before {
-    /* KEYWORDS - DUP select undo */
+    /* KEYWORDS - DUP select, undo */
     content: "\E1C5"; }
   .icon.icon-selectAll:before {
     /* KEYWORDS - DUP duplicate */
@@ -3075,10 +3075,10 @@
     /* KEYWORDS -  */
     content: "\E786"; }
   .icon.icon-smiley:before {
-    /* KEYWORDS - DUP smiley emoticon */
+    /* KEYWORDS - DUP smiley, emoticon */
     content: "\E170"; }
   .icon.icon-solidStarLegacy:before {
-    /* KEYWORDS - legacy star */
+    /* KEYWORDS - legacy, star */
     content: "\E1CF"; }
   .icon.icon-sort:before {
     /* KEYWORDS -  */
@@ -3108,7 +3108,7 @@
     /* KEYWORDS -  */
     content: "\E8F7"; }
   .icon.icon-table:before {
-    /* KEYWORDS - DUP table select */
+    /* KEYWORDS - DUP table, select */
     content: "\E14E"; }
   .icon.icon-tag:before {
     /* KEYWORDS -  */
@@ -3117,7 +3117,7 @@
     /* KEYWORDS - DUP theme */
     content: "\E771"; }
   .icon.icon-threeBars:before {
-    /* KEYWORDS - wifi signal */
+    /* KEYWORDS - wifi, signal */
     content: "\E907"; }
   .icon.icon-touchPointer:before {
     /* KEYWORDS -  */
@@ -3144,10 +3144,10 @@
     /* KEYWORDS - DUP twitter */
     content: "\E168"; }
   .icon.icon-twoBars:before {
-    /* KEYWORDS - wifi signal */
+    /* KEYWORDS - wifi, signal */
     content: "\E906"; }
   .icon.icon-twoPage:before {
-    /* KEYWORDS - page view document */
+    /* KEYWORDS - page, view, document */
     content: "\E89A"; }
   .icon.icon-typingIndicatorLegacy:before {
     /* KEYWORDS - legacy */
@@ -3165,7 +3165,7 @@
     /* KEYWORDS -  */
     content: "\E7A7"; }
   .icon.icon-unfavorite:before {
-    /* KEYWORDS - star block */
+    /* KEYWORDS - star, block */
     content: "\E8D9"; }
   .icon.icon-unfavorite2Legacy:before {
     /* KEYWORDS - legacy */
@@ -3174,7 +3174,7 @@
     /* KEYWORDS - legacy */
     content: "\E195"; }
   .icon.icon-up:before {
-    /* KEYWORDS - arrow up */
+    /* KEYWORDS - arrow, up */
     content: "\E74A"; }
   .icon.icon-upload:before {
     /* KEYWORDS -  */
@@ -3186,7 +3186,7 @@
     /* KEYWORDS - DUP user-status */
     content: "\E181"; }
   .icon.icon-users:before {
-    /* KEYWORDS - DUP users people */
+    /* KEYWORDS - DUP users, people */
     content: "\E125"; }
   .icon.icon-video:before {
     /* KEYWORDS -  */

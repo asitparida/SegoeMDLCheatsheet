@@ -69,7 +69,7 @@ function writeToSCSSFile(icons) {
             _comment = _comment + 'LANG ';
         if (icon.isDup == true)
             _comment = _comment + 'DUP ';
-        _comment = _comment + icon.keywords.join(' ');
+        _comment = _comment + icon.keywords.join(', ');
         _iconTmpl = _iconTmpl.replace('SCSSKEYWORDS', _comment);
         _iconTmpl = _iconTmpl.replace('SCSSICONNAME', icon.name);
         _iconTmpl = _iconTmpl.replace('SCSSICONCOCDE', icon.hex);
