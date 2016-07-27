@@ -1,5 +1,5 @@
 # SegoeMDLCheatsheet
-Web crawled SCSS sheet for Segoe MDL Icons
+Web crawled SCSS sheet for Segoe MDL Icons from the site <a href="http://modernicons.io/segoe-mdl2/cheatsheet/">http://modernicons.io/segoe-mdl2/cheatsheet/</a>
 
 
 SCSS File Sample
