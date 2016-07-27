@@ -4,4 +4,22 @@ Web crawled SCSS sheet for Segoe MDL Icons from the site <a href="http://moderni
 
 SCSS File Sample
 
-<script src="https://gist.github.com/asitparida/a29770a4ccabf4697edcf9d0d354e469.js"></script>
+    .icon {
+        font-family: "SegoeMDL";
+        font-weight: normal;
+        font-style: normal;
+        position: relative;
+        top: 1px;
+        display: inline-block;
+        line-height: 1;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    
+        &.icon-accept:before { /* KEYWORDS - Check */
+            content: "\E8FB";
+        }
+    
+        &.icon-accounts:before { /* KEYWORDS - at email */
+            content: "\E910";
+        }
+    }
